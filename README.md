@@ -14,6 +14,6 @@ https://reactjscalcul.netlify.app
 6. Formato para numeros largos.
 7. Salida de texto en base al largo.
 
-## License
+## Licencia
 
 The project is under [MIT license](https://choosealicense.com/licenses/mit/).
