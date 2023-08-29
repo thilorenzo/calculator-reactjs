@@ -1,4 +1,4 @@
-## Calculadora React.js
+## Calculator
 
 My React.js Calculator App is a user-friendly and responsive web application designed to perform basic arithmetic calculations. Built using the React.js library, this app provides a seamless and interactive experience for users who require quick and accurate calculations.
 
@@ -18,9 +18,7 @@ Clear Functionality: A "Clear" button is incorporated to reset the calculator, a
 
 Error Handling: The app includes error prevention mechanisms, such as restricting multiple decimal points or invalid operations in succession.
 
-Keyboard Support: Users can input numbers and operations using both the calculator's buttons and their computer's keyboard for added convenience.
-
-Technologies Used:
+## Technologies Used:
 
 React.js: The app is developed using React.js, a popular JavaScript library for building user interfaces. React's component-based structure facilitates the separation of concerns and reusability of code.
 
